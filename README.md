@@ -1,5 +1,5 @@
 # linkedin-email-verifier
-The script uses Google's search engine to look for public Linkedin profiles that are part of the give company name.
+The script uses Google's search engine to look for public Linkedin profiles based on the domain name.
 It then converts them to the specific email format for that company. This can be useful when you need emails for a big list of domains.
 It does require you to have knowledge of the email for the company is using, so first a site like phonebook.cz or hunter.io can be used to find the correct format.
 
