@@ -5,7 +5,7 @@ It does require you to have knowledge of the email format for the company, so fi
 
 1. (Install python3 first) then use: pip3 install google-api-python-client
 
-2. Go to https://console.cloud.google.com/, create an google account and go to the credentials tab.
+2. Go to https://console.cloud.google.com/, create an account and go to the credentials tab.
 
 3. Click on create credentials and select API keys.
 
